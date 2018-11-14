@@ -1,2 +1,0 @@
-# newRect
-Created with CodeSandbox
